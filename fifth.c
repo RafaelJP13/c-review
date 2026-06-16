@@ -7,7 +7,6 @@ O programa lê 3 notas, calcula a média e armazena na quarta posição do array
 int main(){
 
     float scores[4];
-    float total = 0;
     int i = 0;
     
     for(; i < 3; ++i){
